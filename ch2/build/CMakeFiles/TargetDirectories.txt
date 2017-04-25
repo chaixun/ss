@@ -1,4 +1,0 @@
-/home/chaixun/slamstudy/ch2/build/CMakeFiles/hello.dir
-/home/chaixun/slamstudy/ch2/build/CMakeFiles/helloSlam.dir
-/home/chaixun/slamstudy/ch2/build/CMakeFiles/hello_shared.dir
-/home/chaixun/slamstudy/ch2/build/CMakeFiles/useHello.dir
