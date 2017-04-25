@@ -38,6 +38,7 @@
 log*.botlog
 log*.txt
 
+
 *.config*
 *.creator*
 *.user*
@@ -51,6 +52,10 @@ log*.txt
 *.files
 *.includes
 *.txt~
+
+.vim-session.vim
+*.kdev4
+.kdev4
 
 <<<<<<< HEAD
 =======
